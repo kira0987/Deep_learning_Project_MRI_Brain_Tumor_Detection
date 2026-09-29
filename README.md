@@ -116,8 +116,8 @@ Evaluation executed on the holdout test set ($673$ samples):
 Ensure Python 3.8+ is installed. Clone this repository and install necessary libraries:
 
 ```bash
-git clone https://github.com/your-username/brain-tumor-mri-detection.git
-cd brain-tumor-mri-detection
+git clone https://github.com/kira0987/Deep_learning_Project_MRI_Brain_Tumor_Detection.git
+cd Deep_learning_Project_MRI_Brain_Tumor_Detection
 pip install tensorflow opencv-python matplotlib plotly pandas numpy scikit-learn pillow
 ```
 
